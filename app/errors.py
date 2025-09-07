@@ -1,0 +1,2 @@
+class DuplicateWithoutIdempotencyKey(Exception):
+    pass
