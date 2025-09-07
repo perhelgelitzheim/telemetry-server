@@ -1,7 +1,6 @@
 # Telemetry Server
 
 A small telemetry service built with FastAPI for ingesting events and calculating metrics over time windows.
-Focus: clean architecture, testability, and understandable design choices.
 
 ---
 
